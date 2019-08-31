@@ -1,3 +1,3 @@
 # habr_test_swift
 
-A description of this package.
+Этот репазиторий создан в рамках видео, снятого по прозьбам ккомментаторов [этой](https://m.habr.com/ru/post/465643/ "habr.com") статьи.
